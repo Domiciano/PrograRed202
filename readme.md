@@ -10,8 +10,8 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 ## SEMANA 1
 
 ### Martes
-[PR - Observar mis intefaces con JAVA](https://youtu.be/GsDk8_f-Jlg)__
-[PR - Direcciones IP](https://youtu.be/5i-dIVXavds)__
+[PR - Observar mis intefaces con JAVA](https://youtu.be/GsDk8_f-Jlg) <br />
+[PR - Direcciones IP](https://youtu.be/5i-dIVXavds) <br />
 
 ### Jueves
-[PR - Ping](https://youtu.be/zLVCzo_X3iE)__
+[PR - Ping](https://youtu.be/zLVCzo_X3iE) <br />
