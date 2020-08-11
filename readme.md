@@ -1,4 +1,4 @@
-![Univesidad Icesi](https://internacional.usil.edu.pe/sites/default/files/alianzas/colombia-icesi.jpg)[]
+![Univesidad Icesi](https://internacional.usil.edu.pe/sites/default/files/alianzas/colombia-icesi.jpg)
 
 # Programación en red
 
