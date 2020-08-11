@@ -7,6 +7,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 ## Correos de los integrantes
 [Correo de los integrantes](https://docs.google.com/spreadsheets/d/1oHoZTIXGRmMuA74zsQ--_yaa_FZ7v7xsOSrtLHhGMeE/edit?usp=sharing)
 
+## Integrantes
+[Integrantes](https://docs.google.com/presentation/d/1PwNvbhk7hoPz-wajL6KYQVVqvWp_pvfbJ9THQwfr4mk/edit?usp=sharing)
+
 ## SEMANA 1
 
 ### Martes
