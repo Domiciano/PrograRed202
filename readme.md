@@ -18,3 +18,6 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ### Jueves
 [PR - Ping](https://youtu.be/zLVCzo_X3iE) <br />
+
+### Clase
+[PR - Semana1B](https://youtu.be/W8VsVFwfXC8)
