@@ -26,7 +26,7 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 ## SEMANA 2
 
 ### Martes
-[PR - Conexion TCP](https://youtu.be/ASlR6Ss_wFY) <br />
+[PR - Conexión TCP](https://youtu.be/ASlR6Ss_wFY) <br />
 [PR - Envío y recepción](https://youtu.be/K2WBJBlARH0) <br />
 [PR - Respuesta del servidor](https://youtu.be/I3dvIxfV9Dg) <br />
 
