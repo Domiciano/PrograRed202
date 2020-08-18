@@ -21,3 +21,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ### Clase
 [PR - Semana1B](https://youtu.be/W8VsVFwfXC8)
+
+
+## SEMANA 2
+
+### Martes
+[PR - Conexion TCP](https://youtu.be/ASlR6Ss_wFY) <br />
+[PR - Envío y recepción](https://youtu.be/K2WBJBlARH0) <br />
+[PR - Respuesta del servidor](https://youtu.be/I3dvIxfV9Dg) <br />
+
+### Jueves
+[PR - Transferencia de datos Parte 1](https://youtu.be/WbhovRmgy2g) <br />
+[PR - Transferencia de datos Parte 2](https://youtu.be/if837vl60vw) <br />
