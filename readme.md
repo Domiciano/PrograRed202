@@ -30,6 +30,11 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Envío y recepción](https://youtu.be/K2WBJBlARH0) <br />
 [PR - Respuesta del servidor](https://youtu.be/I3dvIxfV9Dg) <br />
 
+
+## CLASE
+[Clase PR - Semana2A](https://youtu.be/NOQ2lEeU9TM) <br />
+
+
 ### Jueves
 [PR - Transferencia de datos Parte 1](https://youtu.be/WbhovRmgy2g) <br />
 [PR - Transferencia de datos Parte 2](https://youtu.be/if837vl60vw) <br />
