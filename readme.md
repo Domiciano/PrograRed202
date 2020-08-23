@@ -38,3 +38,6 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 ### Jueves
 [PR - Transferencia de datos Parte 1](https://youtu.be/WbhovRmgy2g) <br />
 [PR - Transferencia de datos Parte 2](https://youtu.be/if837vl60vw) <br />
+
+## CLASE
+[PR - Clase Jueves S2](https://youtu.be/fogWQY0dgik) <br />
