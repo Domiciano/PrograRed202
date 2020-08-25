@@ -41,3 +41,16 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ## CLASE
 [PR - Clase Jueves S2](https://youtu.be/fogWQY0dgik) <br />
+
+
+## SEMANA 3
+
+### Martes
+[PR - Diagrama de secuencia](https://youtu.be/8i7P5qfTRPw)<br />
+[PR - Problema del Long Polling](https://youtu.be/ezdmoD_Rwrs)<br />
+[PR - Aplicando el patrón Observer](https://youtu.be/Nh-n15TlG6A)<br />
+[PR - Patrón observer en TCP](https://youtu.be/NDV16Ya42B4)<br />
+
+## Jueves
+[PR - Introducción al Patrón Singleton](https://youtu.be/OMipEJ8-cEA)<br />
+[PR - Aplicando el patrón Singleton](https://youtu.be/P-Kl-yTpops)<br />
