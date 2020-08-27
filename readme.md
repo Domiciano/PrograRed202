@@ -51,6 +51,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Aplicando el patrón Observer](https://youtu.be/Nh-n15TlG6A)<br />
 [PR - Patrón observer en TCP](https://youtu.be/NDV16Ya42B4)<br />
 
+### Clase
+[Progra Martes S3](https://youtu.be/vH8zYmph9K4)
+
 ## Jueves
 [PR - Introducción al Patrón Singleton](https://youtu.be/OMipEJ8-cEA)<br />
 [PR - Aplicando el patrón Singleton](https://youtu.be/P-Kl-yTpops)<br />
+
+### Clase
+[Progra Jueves S3](https://youtu.be/nPjlUZ_XBEg)
