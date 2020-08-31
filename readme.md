@@ -60,3 +60,16 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ### Clase
 [Progra Jueves S3](https://youtu.be/nPjlUZ_XBEg)
+
+
+## SEMANA 4
+
+### Martes
+[PR - Diferencia entre comunicación síncrona y asíncrona](https://youtu.be/vbtrrIpFYio)<br/>
+[PR - Hilo Receptor](https://youtu.be/ZednN5HM4ks)<br/>
+[PR - Hilo Emisor](https://youtu.be/VZp-fO1Rw_0)<br/>
+[PR - Cliente Asíncrono](https://youtu.be/F8u6eoOj3Bs)<br/>
+
+### Jueves
+[PR - Serialización Envío](https://youtu.be/CPdAnmBdsZc)<br/>
+[PR- Serialiación Recepción](https://youtu.be/_bSv6i1HXwY)<br/>
