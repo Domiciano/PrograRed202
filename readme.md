@@ -64,12 +64,28 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ## SEMANA 4
 
+### Clase
+[Progra martes](https://youtu.be/FbixlR4CFuQ)
+
 ### Martes
 [PR - Diferencia entre comunicación síncrona y asíncrona](https://youtu.be/vbtrrIpFYio)<br/>
 [PR - Hilo Receptor](https://youtu.be/ZednN5HM4ks)<br/>
 [PR - Hilo Emisor](https://youtu.be/VZp-fO1Rw_0)<br/>
 [PR - Cliente Asíncrono](https://youtu.be/F8u6eoOj3Bs)<br/>
 
+### Clase
+[Progra Jueves](https://youtu.be/nhnhD8sjlhw)
+
 ### Jueves
 [PR - Serialización Envío](https://youtu.be/CPdAnmBdsZc)<br/>
 [PR- Serialiación Recepción](https://youtu.be/_bSv6i1HXwY)<br/>
+
+
+## SEMANA 5
+### Martes
+[PR - MVC: View](https://youtu.be/N8RwMkMlrL0)<br/>
+[PR - MVC: Control. Parte 1](https://youtu.be/OW46167eiec)<br/>
+[PR - MVC: Control. Parte 2](https://youtu.be/LM2qXWSWgU0)<br/>
+
+### Jueves
+[PR - MVC: Model](https://youtu.be/kzLisLZ5SOs)<br/>
