@@ -82,10 +82,42 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 
 ## SEMANA 5
+
+### Clase
+[MartesPrograS5](https://youtu.be/oJ2q5BPanvQ)
+
 ### Martes
 [PR - MVC: View](https://youtu.be/N8RwMkMlrL0)<br/>
 [PR - MVC: Control. Parte 1](https://youtu.be/OW46167eiec)<br/>
 [PR - MVC: Control. Parte 2](https://youtu.be/LM2qXWSWgU0)<br/>
 
+### Clase
+[PrograJuevesS5](https://youtu.be/vMtWSHGlGpw)
+
 ### Jueves
 [PR - MVC: Model](https://youtu.be/kzLisLZ5SOs)<br/>
+
+
+## SEMANA 6
+
+### Martes
+PR - Concepto de multicliente
+https://youtu.be/7YcLyufDhBQ
+
+PR - Reestructuración de TCPConnection
+https://youtu.be/6Ed3Dy4a4lI
+
+PR - Reestructuración del MVC
+https://youtu.be/0gvR2EOW9vA
+
+
+### Jueves
+PR - Mensaje Broadcast
+https://youtu.be/zgqDDPGIlXQ
+
+PR - Mensaje Direct
+https://youtu.be/mSAwCkDtO1w
+
+
+
+
