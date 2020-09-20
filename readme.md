@@ -100,23 +100,24 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ## SEMANA 6
 
+### Clase
+[PrograMartesS6](https://youtu.be/h6woNvAeEKM)<br />
+
 ### Martes
-PR - Concepto de multicliente
-https://youtu.be/7YcLyufDhBQ
+[PR - Concepto de multicliente](https://youtu.be/7YcLyufDhBQ)<br />
 
-PR - Reestructuración de TCPConnection
-https://youtu.be/6Ed3Dy4a4lI
+[PR - Reestructuración de TCPConnection](https://youtu.be/6Ed3Dy4a4lI) <br />
 
-PR - Reestructuración del MVC
-https://youtu.be/0gvR2EOW9vA
+[PR - Reestructuración del MVC](https://youtu.be/0gvR2EOW9vA) <br />
 
+
+### Clase
+[PrograJuevesS6](https://youtu.be/ylRYEGXVao8)<br />
 
 ### Jueves
-PR - Mensaje Broadcast
-https://youtu.be/zgqDDPGIlXQ
+[PR - Mensaje Broadcast](https://youtu.be/zgqDDPGIlXQ) <br />
 
-PR - Mensaje Direct
-https://youtu.be/mSAwCkDtO1w
+[PR - Mensaje Direct](https://youtu.be/mSAwCkDtO1w) <br />
 
 
 
