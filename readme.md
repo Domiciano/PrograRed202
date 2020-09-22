@@ -120,5 +120,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Mensaje Direct](https://youtu.be/mSAwCkDtO1w) <br />
 
 
+## SEMANA 7
+
+### Martes
+[PR - Conceptos de UDP](https://youtu.be/tN6Dd19Y4xw)<br/>
+[PR - Aplicación P2P simple con UDP](https://youtu.be/22zEIrewYDo)<br/>
+[PR - UDPConnection](https://youtu.be/MmsY2yjQvWc)<br/>
+
+### Jueves
+[PR - Aplicación P2P GUI con UDP](https://youtu.be/NOdFEABU6T8)<br/>
+[PR - Maven](https://youtu.be/lnbqh5q3OYo)<br/>
 
 
