@@ -122,10 +122,16 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ## SEMANA 7
 
+### Clase
+[Prograred Martes S7](https://youtu.be/ogFKJCbtErI)
+
 ### Martes
 [PR - Conceptos de UDP](https://youtu.be/tN6Dd19Y4xw)<br/>
 [PR - Aplicación P2P simple con UDP](https://youtu.be/22zEIrewYDo)<br/>
 [PR - UDPConnection](https://youtu.be/MmsY2yjQvWc)<br/>
+
+### Clase
+[Progared Jueves S7](https://youtu.be/u_7y08DCigQ)
 
 ### Jueves
 [PR - Aplicación P2P GUI con UDP](https://youtu.be/NOdFEABU6T8)<br/>
