@@ -137,4 +137,8 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Aplicación P2P GUI con UDP](https://youtu.be/NOdFEABU6T8)<br/>
 [PR - Maven](https://youtu.be/lnbqh5q3OYo)<br/>
 
+## SEMANA 8
+
+### Aclaración sobre eventos
+[Progr Jueves](https://youtu.be/TrCpnSZJA3E)
 
