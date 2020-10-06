@@ -142,3 +142,11 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 ### Aclaración sobre eventos
 [Progr Jueves](https://youtu.be/TrCpnSZJA3E)
 
+## SEMANA 9
+
+[PR - Intro SQL 1](https://youtu.be/IqMchgpoe-8)<br/>
+[PR - Intro SQL 2](https://youtu.be/PAjurlkfoKc)<br/>
+[PR - Intro SQL 3](https://youtu.be/BumOUpUc-E0)<br/>
+[PR - Intro SQL 4](https://youtu.be/r_P9ca51v3s)<br/>
+[PR - Intro SQL 5](https://youtu.be/_ulE8fYxD40)<br/>
+
