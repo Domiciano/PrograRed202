@@ -150,3 +150,14 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Intro SQL 4](https://youtu.be/r_P9ca51v3s)<br/>
 [PR - Intro SQL 5](https://youtu.be/_ulE8fYxD40)<br/>
 
+## SEMANA 10
+
+[PR - Creación e inserción en tablas relacionadas](https://youtu.be/2z4IgN9qBSw)<br/>
+
+[PR - Hacer consultas en tablas relacionadas](https://youtu.be/mBq75q4jtQk)<br/>
+
+[PR - Integración MySQL y JAVA](https://youtu.be/Ws4k16v6D3I)<br/>
+
+[PR - Ejecutar Ordenes SQL usando JAVA](https://youtu.be/R_1EvJYzJsk)<br/>
+
+[PR - Consultar información usando SQL en JAVA](https://youtu.be/URLxVXvJm2o)<br/>

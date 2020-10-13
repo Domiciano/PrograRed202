@@ -1,0 +1,4 @@
+ip: 200.3.193.22
+puerto: 3306
+user: P09728_1_11
+contra: ZCSaQGZU
