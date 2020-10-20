@@ -144,13 +144,21 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ## SEMANA 9
 
+### Videos
+
 [PR - Intro SQL 1](https://youtu.be/IqMchgpoe-8)<br/>
 [PR - Intro SQL 2](https://youtu.be/PAjurlkfoKc)<br/>
 [PR - Intro SQL 3](https://youtu.be/BumOUpUc-E0)<br/>
 [PR - Intro SQL 4](https://youtu.be/r_P9ca51v3s)<br/>
 [PR - Intro SQL 5](https://youtu.be/_ulE8fYxD40)<br/>
 
+### Clases
+[PrograS9Martes](https://youtu.be/fAgkr0ps08c)<br/>
+[PrograredJuevesS9](https://youtu.be/eTqj8sOuVhE)<br/>
+
 ## SEMANA 10
+
+### Videos
 
 [PR - Creación e inserción en tablas relacionadas](https://youtu.be/2z4IgN9qBSw)<br/>
 
@@ -161,6 +169,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Ejecutar Ordenes SQL usando JAVA](https://youtu.be/R_1EvJYzJsk)<br/>
 
 [PR - Consultar información usando SQL en JAVA](https://youtu.be/URLxVXvJm2o)<br/>
+
+### Clases
+[PrograS10Martes](https://youtu.be/4PwLFBPUibY)<br/>
+[ProgramRedS10JuevesA](https://youtu.be/lNUfmf6MkxA)<br/>
+[ProgramRedS10JuevesB](https://youtu.be/kERU78F5rKQ)<br/>
+
 
 
 ## SEMANA 11
