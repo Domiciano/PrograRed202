@@ -169,3 +169,10 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 <p>Apache Tomcat</p>
 
 ### Videos
+[PR - A](https://youtu.be/InvHuX8sHHE)<br/>
+[PR - B](https://youtu.be/ncRZZcGioeU)<br/>
+[PR - C](https://youtu.be/0ZTWpXsUjHQ)<br/>
+[PR - D](https://youtu.be/exci4Zu91i0)<br/>
+[PR - E](https://youtu.be/PE71KTBh3ek)<br/>
+[PR - F](https://youtu.be/Ndg7keE1TPQ)<br/>
+[PR - G](https://youtu.be/CCtwAAAzPLk)<br/>
