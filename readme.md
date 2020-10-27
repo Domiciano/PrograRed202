@@ -190,3 +190,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - E](https://youtu.be/PE71KTBh3ek)<br/>
 [PR - F](https://youtu.be/Ndg7keE1TPQ)<br/>
 [PR - G](https://youtu.be/CCtwAAAzPLk)<br/>
+
+
+## SEMANA 12
+
+### Videos
+
+[PR - Creación de base de datos y modelo de tablas](https://youtu.be/qVUrWclL8g8)<br/>
+[PR - Proveedores y servicios](https://youtu.be/d43X476-Wjw)<br/>
+[PR - CRUD de una webapp](https://youtu.be/aPKgXDsqsVs)<br/>
+[PR - Mapping de DTOs para emitir resultados](https://youtu.be/GFWJCqljhRw)<br/>
+[PR - Respuestas DTO compuestos](https://youtu.be/0pua-EOz9OA)<br/>
+[PR - Despligue de la webapp en Heroku](https://youtu.be/FVDeqSBoBL8)<br/>
