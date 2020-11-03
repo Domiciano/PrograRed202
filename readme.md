@@ -182,6 +182,10 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [![Tomcat](https://cdn.iconscout.com/icon/free/png-256/tomcat-283113.png)](https://downloads.apache.org/tomcat/tomcat-9/v9.0.39/bin/apache-tomcat-9.0.39.zip)
 <p>Apache Tomcat</p>
 
+### Clases
+[Martes](https://youtu.be/HNJU_3K1Ipo)<br/>
+[Jueves](https://youtu.be/AwCAH3HybL8)<br/>
+
 ### Videos
 [PR - A](https://youtu.be/InvHuX8sHHE)<br/>
 [PR - B](https://youtu.be/ncRZZcGioeU)<br/>
@@ -202,3 +206,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Mapping de DTOs para emitir resultados](https://youtu.be/GFWJCqljhRw)<br/>
 [PR - Respuestas DTO compuestos](https://youtu.be/0pua-EOz9OA)<br/>
 [PR - Despligue de la webapp en Heroku](https://youtu.be/FVDeqSBoBL8)<br/>
+
+
+## SEMANA 13
+
+### Videos
+
+[Introducción a HTML](https://youtu.be/pea1PE8AwWo)<br/>
+[Estilos básicos con CSS](https://youtu.be/HWGGtZG3OAs)<br/>
+[Referenciar y programar acciones de Views en JS](https://youtu.be/9VgrOlTDCLo)<br/>
+[Funciones y variables en JS](https://youtu.be/yUGCc98cl8g)<br/>
+[Diccionarios y Clases para construir objetos JS](https://youtu.be/35GlIVK9tKY)<br/>
+[Arrays en JS](https://youtu.be/Z0hUE6rbN38)<br/>
