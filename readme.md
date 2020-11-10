@@ -198,6 +198,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ## SEMANA 12
 
+### Clase
+[PrograS12Martes](https://youtu.be/zWxZ8NwI9kY)<br/>
+[PrograS12Jueves](https://youtu.be/HHGmjZp4hag)<br/>
+
+
+
 ### Videos
 
 [PR - Creación de base de datos y modelo de tablas](https://youtu.be/qVUrWclL8g8)<br/>
@@ -209,6 +215,11 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 
 ## SEMANA 13
+
+### Clase
+[PrograS13Martes](https://youtu.be/60LS09CvCUM)<br/>
+[PrograS13Jueves](https://youtu.be/08uhj1UWyK4)<br/>
+
 
 ### Videos
 
