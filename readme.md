@@ -229,3 +229,13 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [Funciones y variables en JS](https://youtu.be/yUGCc98cl8g)<br/>
 [Diccionarios y Clases para construir objetos JS](https://youtu.be/35GlIVK9tKY)<br/>
 [Arrays en JS](https://youtu.be/Z0hUE6rbN38)<br/>
+
+## SEMANA 14
+
+### Videos
+[POST en Javascript](https://youtu.be/s0VaQrIvJ7w)<br/>
+[GET en Javascript](https://youtu.be/9tyqY1jJMn0)<br/>
+[Componentes en Javascript](https://youtu.be/i5X1E_tyYG8)<br/>
+[Estilo de un componente](https://youtu.be/jdy5DzUG_T4)<br/>
+[Creación del servicio de DELETE](https://youtu.be/v-cxl_Ep_Vc)<br/>
+[HTTP desde un componente y cambios del DOM en tiempo de ejecución](https://youtu.be/kmXneG9_VV8)<br/>
