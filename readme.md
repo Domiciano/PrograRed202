@@ -239,3 +239,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [Estilo de un componente](https://youtu.be/jdy5DzUG_T4)<br/>
 [Creación del servicio de DELETE](https://youtu.be/v-cxl_Ep_Vc)<br/>
 [HTTP desde un componente y cambios del DOM en tiempo de ejecución](https://youtu.be/kmXneG9_VV8)<br/>
+
+## SEMANA 15
+https://youtu.be/iwh4Pr2gOAk<br/>
+https://youtu.be/GGDsM-tsuyc<br/>
+https://youtu.be/E4EIHmkSYHs<br/>
+https://youtu.be/w6Q7MOLM8HA<br/>
+https://youtu.be/_cEkcH00_hc<br/>
+https://youtu.be/2krOfHe4gbw<br/>
+https://youtu.be/6lNSaO-NAGg<br/>
