@@ -241,10 +241,16 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [HTTP desde un componente y cambios del DOM en tiempo de ejecución](https://youtu.be/kmXneG9_VV8)<br/>
 
 ## SEMANA 15
-https://youtu.be/iwh4Pr2gOAk<br/>
-https://youtu.be/GGDsM-tsuyc<br/>
-https://youtu.be/E4EIHmkSYHs<br/>
-https://youtu.be/w6Q7MOLM8HA<br/>
-https://youtu.be/_cEkcH00_hc<br/>
-https://youtu.be/2krOfHe4gbw<br/>
-https://youtu.be/6lNSaO-NAGg<br/>
+
+### Clase
+[PrograS15Martes](https://youtu.be/qZ3tTMGTkWc)<br/>
+[PrograJS15](https://youtu.be/qwWAfrS6Uic)<br/>
+
+### Videos
+[PR - Cambiar de página en JS](https://youtu.be/iwh4Pr2gOAk)<br/>
+[PR - Insertar un elemento al localstorage](https://youtu.be/GGDsM-tsuyc)<br/>
+[PR - Adquirir datos del localstorage y servicio PUT](https://youtu.be/E4EIHmkSYHs)<br/>
+[PR - Consumo del servicio PUT en JS](https://youtu.be/w6Q7MOLM8HA)<br/>
+[PR - Despliegue front + back en Heroku](https://youtu.be/_cEkcH00_hc)<br/>
+[PR - WebSockets lado server](https://youtu.be/2krOfHe4gbw)<br/>
+[PR - WebSockets lado client](https://youtu.be/6lNSaO-NAGg)<br/>
