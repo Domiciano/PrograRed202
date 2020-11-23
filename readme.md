@@ -232,6 +232,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 
 ## SEMANA 14
 
+### Clase
+[PrograRedS14Jueves](https://youtu.be/AzhgEaagzpg)
+
 ### Videos
 [POST en Javascript](https://youtu.be/s0VaQrIvJ7w)<br/>
 [GET en Javascript](https://youtu.be/9tyqY1jJMn0)<br/>
