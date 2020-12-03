@@ -257,3 +257,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [PR - Despliegue front + back en Heroku](https://youtu.be/_cEkcH00_hc)<br/>
 [PR - WebSockets lado server](https://youtu.be/2krOfHe4gbw)<br/>
 [PR - WebSockets lado client](https://youtu.be/6lNSaO-NAGg)<br/>
+
+
+## SEMANA 17
+
+### Examen teórico
+[Link del examen](https://forms.gle/Z4UkSrSPrP8PAyKZA)
