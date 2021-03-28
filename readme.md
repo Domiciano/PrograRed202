@@ -187,13 +187,13 @@ En este repositorio encontrará todos los recursos vistos en clase, en programac
 [Jueves](https://youtu.be/AwCAH3HybL8)<br/>
 
 ### Videos
-[PR - A](https://youtu.be/InvHuX8sHHE)<br/>
-[PR - B](https://youtu.be/ncRZZcGioeU)<br/>
-[PR - C](https://youtu.be/0ZTWpXsUjHQ)<br/>
-[PR - D](https://youtu.be/exci4Zu91i0)<br/>
-[PR - E](https://youtu.be/PE71KTBh3ek)<br/>
-[PR - F](https://youtu.be/Ndg7keE1TPQ)<br/>
-[PR - G](https://youtu.be/CCtwAAAzPLk)<br/>
+[PR - A Instalación de Tomcat en IntelliJ](https://youtu.be/InvHuX8sHHE)<br/>
+[PR - B Primer servicio](https://youtu.be/ncRZZcGioeU)<br/>
+[PR - C HTTP y Servicios (Concepto)](https://youtu.be/0ZTWpXsUjHQ)<br/>
+[PR - D Query Params](https://youtu.be/exci4Zu91i0)<br/>
+[PR - E Path Params](https://youtu.be/PE71KTBh3ek)<br/>
+[PR - F Servicio POST y prueba en Postman](https://youtu.be/Ndg7keE1TPQ)<br/>
+[PR - G Servicio PUT](https://youtu.be/CCtwAAAzPLk)<br/>
 
 
 ## SEMANA 12
