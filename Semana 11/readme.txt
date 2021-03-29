@@ -8,21 +8,12 @@ DEPENDENCIAS NECESARIAS
 	    <artifactId>gson</artifactId>
 	    <version>2.8.6</version>
 	</dependency>
-    
-    
-    <!-- https://mvnrepository.com/artifact/javax/javaee-web-api -->
-	<dependency>
-	    <groupId>javax</groupId>
-	    <artifactId>javaee-web-api</artifactId>
-	    <version>8.0.1</version>
-	    <scope>provided</scope>
-	</dependency>
-	
+   
 	<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.bundles/jaxrs-ri -->
 	<dependency>
 	    <groupId>org.glassfish.jersey.bundles</groupId>
 	    <artifactId>jaxrs-ri</artifactId>
-	    <version>2.28</version>
+	    <version>2.33</version>
 	</dependency>
 	
 	<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
